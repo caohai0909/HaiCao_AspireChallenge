@@ -1,0 +1,18 @@
+[
+  {
+    "productName": "HC_test_004",
+    "productType":"Consumable",
+    "productCategory": "All",
+    "internalReference": "test internal refer",
+    "barcode": "74",
+    "salesPrice": "15",
+    "cost": "5",
+    "unitOfMeasure": "Days",
+    "purchaseUnitOfMeasure": "Days",
+    "internalNotes": "Test internal note field",
+    "quantity1": "3",
+    "quantity2": "Units",
+    "toConsume": "1"
+  }
+
+]
